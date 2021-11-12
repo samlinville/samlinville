@@ -26,6 +26,6 @@ I'm a product manager, strategist, and student at Stanford University
 - 🙁 Writing lots of code for coursework that I'm not allowed to post online
 
 ##### BIO
-- 👨🏻‍💻 Former PM Intern (OpenShift) and UX designer (Public Cloud) at Red Hat [(resume)](samlinville.com/resume)
+- 👨🏻‍💻 Former Red Hatter, worked on OpenShift Networking and Public Cloud UX. Details on my [(resume)](samlinville.com/resume)
 - 💬 Let's chat about **dev tools**, **cloud infra**, **design**, **product**
 - 📫 Reach me: [twitter.com/samlinville](https://twitter.com/samlinville)
