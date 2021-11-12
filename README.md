@@ -6,7 +6,8 @@ I'm a product manager, strategist, and student at Stanford University
 
 - 🌱 Learning React
 - 🌲 Finishing up my MBA at Stanford's Graduate School of Business
-- 🙁 Writing lots of code for coursework that I'm not allowed to post online
+- 🙁 Coding lots of coursework that I'm not allowed to post online (RIP my contributions graph...)
+- ✏️ Occaisionally writing tutorials, musings, and build logs on my [blog](https://samlinville.com)
 
 #### A little more about me
 - 😄 My pronouns are he/him/his
