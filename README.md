@@ -1,4 +1,4 @@
-### Hi there 👋
+
 
 <!--
 **samlinville/samlinville** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,3 +14,18 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+### Hi, I'm Sam 👋
+
+I'm a product manager, strategist, and student at Stanford University
+
+##### Currently:
+
+- 🧠 Learning React
+- 🌲 Finishing up my MBA at Stanford's Graduate School of Business
+- 🙁 Writing lots of code for coursework that I'm not allowed to post online
+
+##### BIO
+- 👨🏻‍💻 Former PM Intern (OpenShift) and UX designer (Public Cloud) at Red Hat [(resume)](samlinville.com/resume)
+- 💬 Let's chat about **dev tools**, **cloud infra**, **design**, **product**
+- 📫 Reach me: [twitter.com/samlinville](https://twitter.com/samlinville)
