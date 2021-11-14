@@ -11,7 +11,8 @@ I'm a product manager, strategist, and student at Stanford University
 
 #### A little more about me
 - 😄 My pronouns are he/him/his
-- 👨🏻‍💻 Former Red Hatter, worked on OpenShift Networking and Public Cloud UX (Details on [my résumé](https://samlinville.com/resume))
+- 👨🏻‍💻 Former Red Hatter, worked on OpenShift Networking and Public Cloud UX (Details on <a href="http://samlinville.com/resume" target="_blank">my résumé</a>
+)
 - 💬 Let's chat about **dev tools**, **cloud infra**, **design**, **product**
 - 📫 Reach me on [Twitter](https://twitter.com/samlinville) or [LinkedIn](https://linkedin.com/in/samlinville)
 
