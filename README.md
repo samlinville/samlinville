@@ -1,6 +1,6 @@
 ### Hi, I'm Sam 👋
 
-I’m Sam, a product manager and designer. My goal as a design practitioner is to create spaces and tools that make people feel like they’re at home, because people who confident in their surroundings and circumstances are happier, stronger people. To this end, I spend a lot of time thinking about how to foster confidence, security, inclusivity, and mastery in the products I build.
+I’m Sam, a product manager and designer. My goal as a design practitioner is to create spaces and tools that make people feel like they’re at home, because people who are confident in their surroundings and circumstances are happier, stronger people. To this end, I spend a lot of time thinking about how to foster confidence, security, inclusivity, and mastery in the products I build.
 
 #### Here's what I'm up to
 
