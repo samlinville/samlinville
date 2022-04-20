@@ -4,7 +4,7 @@ I’m Sam, a product manager and designer. My goal as a design practitioner is t
 
 #### Here's what I'm up to
 
-- 🌱 Learning Svelte
+- 🌱 Learning React + Next.js
 - 🌲 Finishing up my MBA at Stanford's Graduate School of Business
 - 🙁 Coding lots of coursework that I'm not allowed to post online (RIP my contributions graph...)
 - ✏️ Occasionally writing tutorials, musings, and build logs on my [blog](https://samlinville.com)
