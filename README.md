@@ -12,7 +12,7 @@ I’m Sam, a product manager and designer. My goal as a design practitioner is t
 - 😄 My pronouns are he/him/his
 - 👨🏻‍💻 Former Red Hatter, worked on OpenShift Networking and UX for deploying RHEL on public clouds (Details on <a href="http://samlinville.com/resume" target="_blank">my resume</a>)
 - 💬 Let's chat about **dev tools**, **cloud infra**, **design**, **product**
-- 📫 Reach me on [Twitter](https://twitter.com/samlinville) or [LinkedIn](https://linkedin.com/in/samlinville)
+- 📫 Reach me on [Mastodon](https://hachyderm.io/thrillifying), [Twitter](https://twitter.com/samlinville) or [LinkedIn](https://linkedin.com/in/samlinville)
 
 #### Tools I use
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
