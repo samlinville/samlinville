@@ -4,7 +4,7 @@ I’m Sam, a product manager and designer. My goal as a design practitioner is t
 
 #### Here's what I'm up to
 
-- 👨🏻‍💻 Ecosystem PM for HashiCorp Vault
+- 👨🏻‍💻 PM at Tailscale
 - 🌱 Learning React + Next.js
 - ✏️ Occasionally writing tutorials, musings, and build logs on my [blog](https://samlinville.com)
 
