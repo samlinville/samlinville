@@ -10,7 +10,7 @@ I’m Sam, a product manager and designer. My goal as a design practitioner is t
 
 #### A little more about me
 - 😄 My pronouns are he/him/his
-- 👨🏻‍💻 Former Red Hatter, worked on OpenShift Networking and UX for deploying RHEL on public clouds (Details on <a href="http://samlinville.com/resume" target="_blank">my resume</a>)
+- 👨🏻‍💻 Formerly at HashiCorp and Red Hat (Details on <a href="http://samlinville.com/resume" target="_blank">my resume</a>)
 - 💬 Let's chat about **dev tools**, **cloud infra**, **design**, **product**
 - 📫 Reach me on <a rel="me" href="https://hachyderm.io/thrillifying">Mastodon</a>, [Twitter](https://twitter.com/samlinville) or [LinkedIn](https://linkedin.com/in/samlinville)
 
